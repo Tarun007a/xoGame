@@ -1,4 +1,4 @@
 # xoGame
-Author - Tarun
+Author - Tarun Chourey
 <br>
 This is my first git repo
